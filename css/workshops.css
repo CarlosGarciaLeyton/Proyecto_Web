@@ -92,7 +92,8 @@
 .workshop .btn,
 .workshop .btn:hover{
     padding: 10px 35px;
-    color: #fff;
+    /*color: #fff;*/
+    color:#333;
 }
 
 .more-info-link {
@@ -100,7 +101,7 @@
 }
 
 #w1{
-    background-image: url(/img/fondo_web_escuela_1.jpg);
+    background-image: url(/img/imagen1.png);
 }
 #w1 p{
     color: #B25900;
@@ -114,7 +115,7 @@
 }
 
 #w2{
-    background-image: url(/img/fondo_web_escuela2.jpg);
+    background-image: url(/img/verde.jpg);
 }
 #w2 p{
     color: #FFA5A5;

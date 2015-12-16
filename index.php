@@ -5,7 +5,7 @@
     <?php include 'inc/head_common.php';?>
     <link rel="stylesheet" href="/css/workshops.css">
     <link rel="icon" type="image/png" href="img/favicon.png">
-    <title>Escuela|Web</title>
+    <title>Escuela Web</title>
     
 <body>
 
@@ -19,7 +19,7 @@
                     <h2>Desarrolla front-end aprendiendo Bootstrap 3</h2>
                     <p>Disfruta de unas clases/talleres diferentes aprendiendo con <a href="#">Carlos Garcia</a>y <a href="#">Mauricio Espinoza</a>.</p>
                     <a href="detail.php" class="btn btn-custom">INSCRIBETE!</a>
-                    <a href="detail.php" class="more-info-link">quiero mas informacion!!</a>
+                    <a href="https://www.facebook.com/groups/1681149468789589/" class="more-info-link">quiero mas informacion!!</a>
                 </div>
                 <div class="col-xs-4 col-xs-offset-2 date-info">
                     <h3 class="highlighted"><strong>W21</strong>24/31 de Octubre</h3>

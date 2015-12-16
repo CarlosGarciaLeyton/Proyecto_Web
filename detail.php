@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <?php include 'inc/head_common.php';?>
     <link rel="stylesheet" href="css/detail.css">
-    <title>Escuela|Web</title>
+    <link rel="icon" type="image/png" href="img/favicon.png">
+    <title>Escuela Web</title>
 </head>
 <body>
 

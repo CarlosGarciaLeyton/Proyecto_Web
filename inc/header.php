@@ -4,7 +4,7 @@
    <div class="container">
     <div class="row">
         <div class="col-xs-5 col-sm-3">
-           <h1 id="main-logo"><a href="index.php">ESCUELA|WEB <span>Desarrollo & Programacion WEB</span></a></h1>
+           <h1 id="main-logo"><a href="index.php">ESCUELA WEB <span>Desarrollo Web Para Tod@s</span></a></h1>
         </div>
             <div class="col-xs-7 col-sm-9">
                 <ul id="main-menu" class="nav nav-pills hidden-xs">
@@ -17,7 +17,7 @@
                     </ul>
                     </li>
                     <li><a href="/Proyecto_Web/login/login.php">REGISTRO</a></li>
-                    <li><a href="#">FAQ</a></li>
+                    <li><a href="#">QUIENES SOMOS</a></li>
                     <li><a href="#">CONTACTO</a></li>
                 </ul>
                 

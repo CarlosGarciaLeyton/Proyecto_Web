@@ -23,9 +23,10 @@ ul li{
     width: 100%;
     background-color: #fff;
     z-index: 99;
-    
-    background-color: rgb(255, 255, 255);
-    background-color: rgba(255, 255, 255, 0.95);
+    background-color: rgb(51,51,51);
+    background-color: rgba(51,51,51, 0.95);
+    /*background-color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.95);*/
     /*For IE8*/
     -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#11000000,
         endColorstr=#11000000)";
@@ -39,7 +40,8 @@ ul li{
     height: 80px;
     padding: 2px 0 0 20px;
     margin: 0;
-    background-color: #A3D900;
+    background-color: #333;
+    /*background-color: #A3D900;*/
     
 }
 
@@ -53,7 +55,8 @@ ul li{
 
 #main-logo > a > span{
     display: block;
-    color: #DFFFBF;
+    color: #f22230;
+    /*color: #DFFFBF;*/
     font-size: 13px;
     font-size: 1.3rem;
 }
@@ -66,11 +69,13 @@ ul li{
 }
 
 #main-menu a {
-    color: #aaa;
+   
+    color: white;
 }
 
 #main-menu a:hover {
-    color: #A3D900;
+    /*color: #A3D900;*/
+    color:green;
 }
 
 #main-menu.nav-pills>li.active>a,
@@ -83,7 +88,8 @@ ul li{
 #main-menu.nav-pills>li.active>a,
 #main-menu.nav-pills>li.active>a:hover,
 #main-menu.nav-pills>li.active>a:focus{
-    color: #A3D900;
+    /*olor: #A3D900;*/
+    color: green;
 }
 #main-menu.nav-pills>li.active>a,
 #main-menu.nav-pills>li.active>a:hover,
@@ -104,8 +110,9 @@ ul li{
     display:block;
     width: 100%;
     padding: 10px 0;
-    border-top: 1px solid #eee;
-    color: #aaa;
+    border-top: 1px solid white;
+    color: white;
+    /*color: #aaa;*/
     text-align: center;
     text-transform: uppercase;
 }
@@ -116,7 +123,8 @@ ul li{
 #mobile-main-menu a:hover{
     color: #fff;
     text-decoration: none;
-    background-color: #a3d900;
+    background-color: green;
+    /*background-color: #a3d900;*/
     
 }
 /********FOOTER*******/
@@ -144,11 +152,12 @@ footer p{
     font-weight: 200;
 }
 #next-workshops a {
-    color: #00bfff;
+    color: green;
+    /*color: #00bfff;*/
     text-decoration: none;
 }
 #next-workshops a:hover{
-    color: #fff;
+    color: #333;
     text-decoration: none;
 }
 #subscribe-form input {
@@ -160,13 +169,15 @@ footer p{
     font-size: 1.6rem;
     font-weight: 300;
     line-height: normal;
-    background-color: #222;
+    background-color: whitesmoke;
 }
 
 #subscribe-form button{
     width: 100%;
-    color: #444;
-    background-color: #eee;
+    color: white;
+    /*color: #444;*/
+    background-color: #f22230;
+    /*background-color: #eee;*/
     line-height: 24px;
     line-height: 2.4rem;
     
